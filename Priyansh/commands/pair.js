@@ -3,7 +3,7 @@ module.exports.config = {
   version: "1.0.0", 
   hasPermssion: 0,
   credits: "PREM BABU",
-  description: "THIS BOT IS MADE BY PREM BABU",
+  description: "THIS BOT IS MADE BY Khushi",
   commandCategory: "COUPLE LOVE PAIRING", 
   usages: "PAIR", 
   cooldowns: 0
